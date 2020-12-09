@@ -1,7 +1,7 @@
 # MOD_FreeSurf2D
 **MOD_FreeSurf2D** is a computer program to solve the depth-averaged, shallow water equations in general situations. It was originally released in 2005 along with the article ["MOD_FreeSurf2D: a Matlab surface fluid flow code for rivers and streams"](https://doi.org/10.1016/j.cageo.2005.03.004).
 
-In the original version, and the version provided here, **MOD_FreeSurf2D** is a set of [Matlab scripts](https://github.com/nmartin198/MOD_FreeSurf2D/tree/main/src). These scripts require Matlab for execution. A release executable that is compiled, using the Matlab Compiler package, from the Matlab scripts is also available. It can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/tree/main/Release).
+In the original version, and the version provided here, **MOD_FreeSurf2D** is a set of [Matlab scripts](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/src). These scripts require Matlab for execution. A release executable that is compiled, using the Matlab Compiler package, from the Matlab scripts is also available. It can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/Release).
 
 **MOD_FreeSurf2D** is designed to simulate water flow in rivers, streams, and shallow estuaries. It requires at least four input files to run.
 
@@ -10,25 +10,25 @@ In the original version, and the version provided here, **MOD_FreeSurf2D** is a 
 3. Mann.txt (Manning's n for each computational grid cell)
 4. Topo.txt (ground surface elevation for each grid cell)
 
-Additional information on the required input files and on the use of this program can be found in the [manual](https://github.com/nmartin198/MOD_FreeSurf2D/tree/main/Docs).
+Additional information on the required input files and on the use of this program can be found in the [manual](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/Docs).
 
 ## Requirements
 
-For customizable and extendable use, **MOD_FreeSurf2D** requires Matlab. Running these scripts from within Matlab provides the user with unlimited access to customize, visualize, and analyze simulation results. The [Matlab scripts](https://github.com/nmartin198/MOD_FreeSurf2D/tree/main/src) have been tested on Matlab 2020R.
+For customizable and extendable use, **MOD_FreeSurf2D** requires Matlab. Running these scripts from within Matlab provides the user with unlimited access to customize, visualize, and analyze simulation results. The [Matlab scripts](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/src) have been tested on Matlab 2020R.
 
-A compiled executable is also available that can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/tree/main/Release). The Matlab Runtime is also installed by the Installer Package and allows execution of **MOD_FreeSurf2D** on computers, which do not have a Matlab license. The drawback to the compiled executable is that the user cannot customize the program outputs using the Matlab visualization and analysis tools.
+A compiled executable is also available that can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/Release). The Matlab Runtime is also installed by the Installer Package and allows execution of **MOD_FreeSurf2D** on computers, which do not have a Matlab license. The drawback to the compiled executable is that the user cannot customize the program outputs using the Matlab visualization and analysis tools.
 
 ## Getting Started
 
 First download the archive (and expand it) to a local hard drive. Add the MOD_FreeSurf2D directory to the current Matlab path. The program can be run from the Matlab command window by typing MOD_FreeSurf2D.
 
-Three complete [examples](https://github.com/nmartin198/MOD_FreeSurf2D/tree/main/Examples) are provided.
+Three complete [examples](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/Examples) are provided.
 
 1. ConvS3
 2. Reach1
 3. DamBreak
 
-The total input and output for these examples is located in the [Examples directory](https://github.com/nmartin198/MOD_FreeSurf2D/tree/main/Examples) under the appropriate subdirectory. In addition, plotting and output routines that have been customized for each scenario are also provided in the appropriate sims subdirectory. Each of these examples can be quickly run for testing purposes. The specifics of running each example case are listed below.
+The total input and output for these examples is located in the [Examples directory](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/Examples) under the appropriate subdirectory. In addition, plotting and output routines that have been customized for each scenario are also provided in the appropriate sims subdirectory. Each of these examples can be quickly run for testing purposes. The specifics of running each example case are listed below.
 
 ### ConvS3
 
