@@ -1,0 +1,220 @@
+Fluid v. 2.7 
+
+WATER DEPTH COMPARISON for LOC. 1 
+
+SIMULATED and MEASURED STATS
+Max Sim:   0.1330	 Min Sim:   0.0170	 Mean Sim:   0.0562
+Max Meas.: 0.1342	 Min Meas.: 0.0138	 Mean Meas.: 0.0550
+
+DATA and SIMULATION MEANS and STANDARD DEVS.
+Measured mean:    0.05495	 Measured STD:    0.03909
+Simulated mean:   0.05622	 Simulated STD:   0.03675
+
+ERROR ANALYSIS 
+Max error:  0.0046			 Min error: -0.0091
+Mean error: 0.0013			 Error Standard Dev.: 0.0030
+Mean Error (BIAS): 0.0013		 Normalized M.E.: 0.0095
+Root Mean Square Error (RMSE): 0.0033	 Normalized RMSE: 0.0242
+
+SIMULATED, TIME-AVERAGED and MEASURED STATS
+Max Sim:   0.1329	 Min Sim:   0.0000	 Mean Sim:   0.0545
+Max Meas.: 0.1342	 Min Meas.: 0.0138	 Mean Meas.: 0.0550
+
+DATA and SIMULATION, TIME-AVERAGED MEANS and STANDARD DEVS.
+Measured mean:    0.05495	 Measured STD:    0.03909
+Simulated mean:   0.05446	 Simulated STD:   0.03646
+
+TIME-AVERAGED ERROR ANALYSIS 
+Max error: 0.0049			 Min error: -0.1338
+Mean error: -0.0005			 Error Standard Dev.: 0.0204
+Mean Error (BIAS): -0.0005		 Normalized M.E.: -0.0037
+Root Mean Square Error (RMSE): 0.0202	 Normalized RMSE: 0.1505
+
+
+WATER DEPTH COMPARISON for LOC. 2 
+
+SIMULATED and MEASURED STATS
+Max Sim:   0.1412	 Min Sim:   0.0250	 Mean Sim:   0.0620
+Max Meas.: 0.1427	 Min Meas.: 0.0240	 Mean Meas.: 0.0615
+
+DATA and SIMULATION MEANS and STANDARD DEVS.
+Measured mean:    0.06154	 Measured STD:    0.03436
+Simulated mean:   0.06199	 Simulated STD:   0.03357
+
+ERROR ANALYSIS 
+Max error: 0.0024			 Min error: -0.0053
+Mean error: 0.0004			 Error Standard Dev.: 0.0013
+Mean Error (BIAS): 0.0004		 Normalized M.E.: 0.0031
+Root Mean Square Error (RMSE): 0.0014	 Normalized RMSE: 0.0095
+
+SIMULATED, TIME-AVERAGED and MEASURED STATS
+Max Sim:   0.1412	 Min Sim:   0.0000	 Mean Sim:   0.0600
+Max Meas.: 0.1427	 Min Meas.: 0.0240	 Mean Meas.: 0.0615
+
+DATA and SIMULATION, TIME-AVERAGED MEANS and STANDARD DEVS.
+Measured mean:    0.06154	 Measured STD:    0.03436
+Simulated mean:   0.06001	 Simulated STD:   0.03344
+
+TIME-AVERAGED ERROR ANALYSIS 
+Max error: 0.0034			 Min error: -0.1427
+Mean error: -0.0015			 Error Standard Dev.: 0.0218
+Mean Error (BIAS): -0.0015		 Normalized M.E.: -0.0108
+Root Mean Square Error (RMSE): 0.0216	 Normalized RMSE: 0.1513
+
+
+WATER DEPTH COMPARISON for LOC. 3 
+
+SIMULATED and MEASURED STATS
+Max Sim:   0.1500	 Min Sim:   0.0228	 Mean Sim:   0.0496
+Max Meas.: 0.1504	 Min Meas.: 0.0228	 Mean Meas.: 0.0505
+
+DATA and SIMULATION MEANS and STANDARD DEVS.
+Measured mean:    0.05053	 Measured STD:    0.02743
+Simulated mean:   0.04963	 Simulated STD:   0.02538
+
+ERROR ANALYSIS 
+Max error: 0.0082			 Min error: -0.0208
+Mean error: -0.0009			 Error Standard Dev.: 0.0042
+Mean Error (BIAS): -0.0009		 Normalized M.E.: -0.0059
+Root Mean Square Error (RMSE): 0.0043	 Normalized RMSE: 0.0284
+
+SIMULATED, TIME-AVERAGED and MEASURED STATS
+Max Sim:   0.1069	 Min Sim:   0.0000	 Mean Sim:   0.0475
+Max Meas.: 0.1504	 Min Meas.: 0.0228	 Mean Meas.: 0.0505
+
+DATA and SIMULATION, TIME-AVERAGED MEANS and STANDARD DEVS.
+Measured mean:    0.05053	 Measured STD:    0.02743
+Simulated mean:   0.04748	 Simulated STD:   0.02278
+
+TIME-AVERAGED ERROR ANALYSIS 
+Max error: 0.0115			 Min error: -0.1504
+Mean error: -0.0030			 Error Standard Dev.: 0.0219
+Mean Error (BIAS): -0.0030		 Normalized M.E.: -0.0202
+Root Mean Square Error (RMSE): 0.0219	 Normalized RMSE: 0.1457
+
+
+WATER DEPTH COMPARISON for LOC. 4 
+
+SIMULATED and MEASURED STATS
+Max Sim:   0.1501	 Min Sim:   0.0229	 Mean Sim:   0.0522
+Max Meas.: 0.0767	 Min Meas.: -0.0002	 Mean Meas.: 0.0382
+
+DATA and SIMULATION MEANS and STANDARD DEVS.
+Measured mean:    0.03820	 Measured STD:    0.02147
+Simulated mean:   0.05218	 Simulated STD:   0.02869
+
+ERROR ANALYSIS 
+Max error: 0.1503			 Min error: 0.0016
+Mean error: 0.0140			 Error Standard Dev.: 0.0299
+Mean Error (BIAS): 0.0140		 Normalized M.E.: 0.1823
+Root Mean Square Error (RMSE): 0.0327	 Normalized RMSE: 0.4264
+
+SIMULATED, TIME-AVERAGED and MEASURED STATS
+Max Sim:   0.1501	 Min Sim:   0.0000	 Mean Sim:   0.0495
+Max Meas.: 0.0767	 Min Meas.: -0.0002	 Mean Meas.: 0.0382
+
+DATA and SIMULATION, TIME-AVERAGED MEANS and STANDARD DEVS.
+Measured mean:    0.03820	 Measured STD:    0.02147
+Simulated mean:   0.04950	 Simulated STD:   0.02574
+
+TIME-AVERAGED ERROR ANALYSIS 
+Max error: 0.1503			 Min error: -0.0010
+Mean error: 0.0113			 Error Standard Dev.: 0.0220
+Mean Error (BIAS): 0.0113		 Normalized M.E.: 0.1474
+Root Mean Square Error (RMSE): 0.0245	 Normalized RMSE: 0.3198
+
+
+WATER DEPTH COMPARISON for LOC. 5 
+
+SIMULATED and MEASURED STATS
+Max Sim:   0.0537	 Min Sim:   0.0000	 Mean Sim:   0.0306
+Max Meas.: 0.0587	 Min Meas.: 0.0004	 Mean Meas.: 0.0302
+
+DATA and SIMULATION MEANS and STANDARD DEVS.
+Measured mean:    0.03017	 Measured STD:    0.01503
+Simulated mean:   0.03064	 Simulated STD:   0.01431
+
+ERROR ANALYSIS 
+Max error: 0.0221			 Min error: -0.0102
+Mean error: 0.0005			 Error Standard Dev.: 0.0046
+Mean Error (BIAS): 0.0005		 Normalized M.E.: 0.0080
+Root Mean Square Error (RMSE): 0.0045	 Normalized RMSE: 0.0774
+
+SIMULATED, TIME-AVERAGED and MEASURED STATS
+Max Sim:   0.0537	 Min Sim:   0.0000	 Mean Sim:   0.0303
+Max Meas.: 0.0587	 Min Meas.: 0.0004	 Mean Meas.: 0.0302
+
+DATA and SIMULATION, TIME-AVERAGED MEANS and STANDARD DEVS.
+Measured mean:    0.03017	 Measured STD:    0.01503
+Simulated mean:   0.03028	 Simulated STD:   0.01416
+
+TIME-AVERAGED ERROR ANALYSIS 
+Max error: 0.0070			 Min error: -0.0102
+Mean error: 0.0001			 Error Standard Dev.: 0.0035
+Mean Error (BIAS): 0.0001		 Normalized M.E.: 0.0020
+Root Mean Square Error (RMSE): 0.0035	 Normalized RMSE: 0.0590
+
+
+WATER DEPTH COMPARISON for LOC. 6 
+
+SIMULATED and MEASURED STATS
+Max Sim:   0.0453	 Min Sim:   0.0000	 Mean Sim:   0.0209
+Max Meas.: 0.0313	 Min Meas.: 0.0000	 Mean Meas.: 0.0178
+
+DATA and SIMULATION MEANS and STANDARD DEVS.
+Measured mean:    0.01779	 Measured STD:    0.00738
+Simulated mean:   0.02088	 Simulated STD:   0.01023
+
+ERROR ANALYSIS 
+Max error: 0.0245			 Min error: -0.0144
+Mean error: 0.0031			 Error Standard Dev.: 0.0053
+Mean Error (BIAS): 0.0031		 Normalized M.E.: 0.0987
+Root Mean Square Error (RMSE): 0.0061	 Normalized RMSE: 0.1935
+
+SIMULATED, TIME-AVERAGED and MEASURED STATS
+Max Sim:   0.0430	 Min Sim:   0.0000	 Mean Sim:   0.0204
+Max Meas.: 0.0313	 Min Meas.: 0.0000	 Mean Meas.: 0.0178
+
+DATA and SIMULATION, TIME-AVERAGED MEANS and STANDARD DEVS.
+Measured mean:    0.01779	 Measured STD:    0.00738
+Simulated mean:   0.02040	 Simulated STD:   0.01002
+
+TIME-AVERAGED ERROR ANALYSIS 
+Max error: 0.0210			 Min error: -0.0144
+Mean error: 0.0026			 Error Standard Dev.: 0.0050
+Mean Error (BIAS): 0.0026		 Normalized M.E.: 0.0835
+Root Mean Square Error (RMSE): 0.0056	 Normalized RMSE: 0.1791
+
+
+WATER DEPTH COMPARISON for LOC. 8 
+
+SIMULATED and MEASURED STATS
+Max Sim:   0.0421	 Min Sim:   0.0000	 Mean Sim:   0.0207
+Max Meas.: 0.0428	 Min Meas.: 0.0000	 Mean Meas.: 0.0231
+
+DATA and SIMULATION MEANS and STANDARD DEVS.
+Measured mean:    0.02314	 Measured STD:    0.01362
+Simulated mean:   0.02072	 Simulated STD:   0.01411
+
+ERROR ANALYSIS 
+Max error: 0.0061			 Min error: -0.0363
+Mean error: -0.0024			 Error Standard Dev.: 0.0063
+Mean Error (BIAS): -0.0024		 Normalized M.E.: -0.0567
+Root Mean Square Error (RMSE): 0.0067	 Normalized RMSE: 0.1560
+
+SIMULATED, TIME-AVERAGED and MEASURED STATS
+Max Sim:   0.0420	 Min Sim:   0.0000	 Mean Sim:   0.0207
+Max Meas.: 0.0428	 Min Meas.: 0.0000	 Mean Meas.: 0.0231
+
+DATA and SIMULATION, TIME-AVERAGED MEANS and STANDARD DEVS.
+Measured mean:    0.02314	 Measured STD:    0.01362
+Simulated mean:   0.02072	 Simulated STD:   0.01403
+
+TIME-AVERAGED ERROR ANALYSIS 
+Max error: 0.0038			 Min error: -0.0363
+Mean error: -0.0024			 Error Standard Dev.: 0.0062
+Mean Error (BIAS): -0.0024		 Normalized M.E.: -0.0568
+Root Mean Square Error (RMSE): 0.0066	 Normalized RMSE: 0.1547
+
+
+Total Elapsed time in min. for the simulation is:               0.8754
