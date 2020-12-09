@@ -1,7 +1,7 @@
 # MOD_FreeSurf2D
 **MOD_FreeSurf2D** is a computer program to solve the depth-averaged, shallow water equations in general situations. It was originally released in 2005 along with the article ["MOD_FreeSurf2D: a Matlab surface fluid flow code for rivers and streams"](https://doi.org/10.1016/j.cageo.2005.03.004).
 
-In the original version, and the version provided here, **MOD_FreeSurf2D** is a set of [Matlab scripts](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/src). These scripts require Matlab for execution. A release executable that is compiled, using the Matlab Compiler package, from the Matlab scripts is also available. It can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/Release).
+In the original version, and the version provided here, **MOD_FreeSurf2D** is a set of [Matlab scripts](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/src). These scripts require Matlab for execution. A release executable that is compiled, using the Matlab Compiler package, from the Matlab scripts is also available. It can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/releases/tag/v1.0).
 
 **MOD_FreeSurf2D** is designed to simulate water flow in rivers, streams, and shallow estuaries. It requires at least four input files to run.
 
@@ -16,7 +16,7 @@ Additional information on the required input files and on the use of this progra
 
 For customizable and extendable use, **MOD_FreeSurf2D** requires Matlab. Running these scripts from within Matlab provides the user with unlimited access to customize, visualize, and analyze simulation results. The [Matlab scripts](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/src) have been tested on Matlab 2020R.
 
-A compiled executable is also available that can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/tree/v1.0/Release). The Matlab Runtime is also installed by the Installer Package and allows execution of **MOD_FreeSurf2D** on computers, which do not have a Matlab license. The drawback to the compiled executable is that the user cannot customize the program outputs using the Matlab visualization and analysis tools.
+A compiled executable is also available that can be installed using the [Installer Package](https://github.com/nmartin198/MOD_FreeSurf2D/releases/tag/v1.0). The Matlab Runtime is also installed by the Installer Package and allows execution of **MOD_FreeSurf2D** on computers, which do not have a Matlab license. The drawback to the compiled executable is that the user cannot customize the program outputs using the Matlab visualization and analysis tools.
 
 ## Getting Started
 
