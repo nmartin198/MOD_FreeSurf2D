@@ -9,6 +9,17 @@ __pycache__/
 # Visual Studio Code projects
 *.code-workspace
 
+# Miscellaneous output files
+Examples/ConvS3/Info.txt
+Examples/ConvS3/Mass.txt
+Examples/ConvS3/Output.txt
+Examples/DamBreak/Info.txt
+Examples/DamBreak/Mass.txt
+Examples/DamBreak/Output.txt
+Examples/Reach1/Info.txt
+Examples/Reach1/Mass.txt
+Examples/Reach1/Output.txt
+
 # Release executable which added manually
 Release/MCRInstaller_MODFreeSurf2D.exe 
 

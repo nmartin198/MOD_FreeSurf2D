@@ -10,7 +10,7 @@ function dbset(Counter,PTime)
 % flume experiment of Bellos et al. (1992).
 
 global DepthLoc1 DepthLoc2 DepthLoc3 DepthLoc4 DepthLoc5 DepthLoc6 DepthLoc7
-global DepthLoc8 H Hux Hvy TimeCounter
+global DepthLoc8 H TimeCounter
 global L1Size L2Size L3Size L4Size L5Size L6Size L7Size L8Size L1Vol L2Vol
 global L3Vol L4Vol L5Vol L6Vol L7Vol L8Vol 
 

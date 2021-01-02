@@ -16,7 +16,7 @@ global L3Vol L4Vol L5Vol L6Vol L7Vol L8Vol
 TotTime = double(0.0);
 NumInc = 0;
 %
-TotTime = (ENDTIME - STARTTIME)*(60*60);
+TotTime = (ENDTIME - STARTTIME)*(24.0*60.0*60.0);
 NumInc = floor(TotTime/FLUID_DT);
 
 % initialize storage vectors.
@@ -29,6 +29,23 @@ DepthLoc6 = zeros(NumInc,1);
 DepthLoc7 = zeros(NumInc,1);
 DepthLoc8 = zeros(NumInc,1);
 TimeCounter = zeros(NumInc,1);
+
+L1Size = 2;
+L1Vol = [ 45 46 ]; 
+L2Size = 4;
+L2Vol = [ 1095 1096 1125 1126 ];
+L3Size = 2;
+L3Vol = [ 2047 2048 ];
+L4Size = 2;
+L4Vol = [ 2077 2078 ];
+L5Size = 2;
+L5Vol = [ 2649 2679 ];
+L6Size = 2;
+L6Vol = [ 3253 3283 ];
+L7Size = 4;
+L7Vol = [ 3855 3856 3885 3886 ];
+L8Size = 4;
+L8Vol = [ 4455 4456 4485 4486 ];
 
 % Calcs.
 if (L1Size > 0)

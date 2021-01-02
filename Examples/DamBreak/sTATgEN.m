@@ -52,7 +52,7 @@ TAWrite6 = zeros(Len6,2);
 TAWrite8 = zeros(Len8,2);
 % pad the bottom of the measured values matrixes to enable for loop
 %     to complete.
-Ender = ceil(ENDTIME*(3600)) + 150.0;
+Ender = ceil(ENDTIME*(24*3600)) + 150.0;
 DLoc1 = [DLoc1;[Ender 0.0]];
 DLoc2 = [DLoc2;[Ender 0.0]];
 DLoc3 = [DLoc3;[Ender 0.0]];
