@@ -73,7 +73,7 @@ The general procedure for contributing is as follows.
 
 ## Author
 
-* **Nick Martin** nick.martin@stanfordalumni.org
+* **Nick Martin** nick.martin@alumni.stanford.edu
 
 ## License
 
